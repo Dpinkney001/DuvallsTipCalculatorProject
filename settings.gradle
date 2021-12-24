@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Duvall's Tip Calculator Project"
